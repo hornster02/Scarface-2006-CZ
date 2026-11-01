@@ -1,6 +1,6 @@
-MYABANDONWARE (2024-02)
+Nevyzkoušeno - MYABANDONWARE , Community Fix Full RIP English version 2.2 GB (2026-07)
 <br/>
-Velikost 29MB https://drive.google.com/drive/folders/1Ttm9mjmgySlrVxRSvc5hCVrh0GvfaeRM
+Velikost 11MB https://github.com/hornster02/Scarface-2006-CZ/raw/main/cz.rar
 
 Postup -
 <br/>
@@ -10,9 +10,9 @@ Postup -
 
 Jiné -
 <br/>
-■ jiná verze (Velikost 1195MB) https://ia800905.us.archive.org/view_archive.php?archive=/28/items/score214dvd/Score_2011-12_214_DVD1-1.iso
+■ jiná verze (Velikost 1197MB, patch) https://ia800905.us.archive.org/view_archive.php?archive=/28/items/score214dvd/Score_2011-12_214_DVD1-1.iso
 
-Autohotkey v1.1 https://github.com/hornster02/Scarface-2006-CZ/raw/main/script.rar
+Autohotkey v1.1 (AHK)
 <br/>
 ```CTRL+ALT+INS``` pozastavit/spustit skript (globální klávesa)
 <br/>
